@@ -1,7 +1,6 @@
 # MachineLearning
 Latest Models and Its Application Learning Exercise
 
-
 Machine Learning
 │
 ├── **Supervised Learning**  
